@@ -68,8 +68,8 @@ function select_theme() {
             'CyberRe')
                 splash 'Installing CyberRe Theme'
                 break;;
-            'Virtuaverse')
-                splash 'Installing Virtuaverse Theme'
+            'virtuaverse')
+                splash 'Installing virtuaverse Theme'
                 break;;
             'Quit')
                 echo_info 'User requested exit'
